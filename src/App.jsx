@@ -10,6 +10,7 @@ function App() {
     <>
   <h3>Redux Counter App</h3>
   <Counter />
+  <h6> © Rajan Maharjan, 2023</h6>
     </>
   )
 }
